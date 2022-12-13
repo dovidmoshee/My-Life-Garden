@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_life_garden=self.webpackChunkmy_life_garden||[]).push([[7325],{151:e=>{e.exports=JSON.parse('{"permalink":"/My-Life-Garden/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
