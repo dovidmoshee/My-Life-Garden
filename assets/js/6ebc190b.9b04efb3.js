@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_life_garden=self.webpackChunkmy_life_garden||[]).push([[820],{2572:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/My-Life-Garden/blog/tags/facebook","allTagsPath":"/My-Life-Garden/blog/tags","count":1}')}}]);
