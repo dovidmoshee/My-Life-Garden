@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_life_garden=self.webpackChunkmy_life_garden||[]).push([[3432],{6163:e=>{e.exports=JSON.parse('{"label":"docusaurus-v2","permalink":"/My-Life-Garden/blog/tags/docusaurus-v-2","allTagsPath":"/My-Life-Garden/blog/tags","count":1}')}}]);

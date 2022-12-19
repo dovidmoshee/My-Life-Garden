@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_life_garden=self.webpackChunkmy_life_garden||[]).push([[3244],{1511:e=>{e.exports=JSON.parse('{"permalink":"/My-Life-Garden/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -4,10 +4,20 @@
         <title>My Site Blog</title>
         <link>https://dovidmoshee.github.io/My-Life-Garden/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Welcome Docusaurus v2]]></title>
+            <link>https://dovidmoshee.github.io/My-Life-Garden/blog/welcome-docusaurus-v2</link>
+            <guid>welcome-docusaurus-v2</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p><p>This is my first post on Docusaurus 2.</p><p>A whole bunch of exploration to follow.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus-v2</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://dovidmoshee.github.io/My-Life-Garden/blog/welcome</link>
